@@ -1,0 +1,3 @@
+streamlit
+Pillow #utk manipulasi gambar, dibutuhkan streamlit secara internal, atau fitur yang akan datang
+PyPDF2 #utk ekstraksi teks 2 PDF
